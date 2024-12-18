@@ -3,10 +3,10 @@ DesiQna Interview Experiences Page This is the Frontend Web page. Its purpose is
 
 Tech Stack:
 
-HTML
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3">CSS
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>CSS
 BOOTSTRAP
-JAVASCRIPT
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>JAVASCRIPT
 
 https://github.com/user-attachments/assets/9ef84d86-5974-4472-a4da-e51edf1bf39f
 
